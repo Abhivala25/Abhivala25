@@ -48,7 +48,7 @@ I'm **Abhishek Vala**, a passionate Full-Stack Developer with expertise in Pytho
 </div>
 
 ## 💼 Experience
-**UX/UI Designer & Full Stack Developer** @ [DynoDev](https://dynodev.example.com) *(Jan 2025 - July 2025)*  
+**UX/UI Designer** @ [DynoDev](https://dynodev.example.com) *(Jan 2025 - July 2025)*  
 - Designed and implemented end-to-end UI/UX for web-based products
 - Developed full-stack features using Python/Django and JavaScript
 - Translated user needs into responsive interfaces using HTML/CSS
