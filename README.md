@@ -11,13 +11,6 @@ I’m **Abhishek Vala**, a passionate technologist who thrives at the intersecti
 
 ## 📈 Data Visualization
 
-<div align="center">
-  <img
-    src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Java%22%2C%22C%2FC%2B%2B%22%2C%22PHP%22%2C%22JavaScript%22%2C%22Dart%22%2C%22Kotlin%22%2C%22ASP.NET%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B95%2C85%2C80%2C75%2C90%2C70%2C65%2C60%5D%2C%22backgroundColor%22%3A%5B%22%23306998%22%2C%22%23007396%22%2C%22%2300599C%22%2C%22%234F5D95%22%2C%22%23F0DB4F%22%2C%22%2300B4AB%22%2C%22%23A97BFF%22%2C%22%23512BD4%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Language%20Proficiency%20(%)%22%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%7D%5D%7D%7D%7D&width=700&height=300"
-    alt="Language Proficiency (%) Chart"
-  />
-</div>
-
 
 ## 🛠️ Tech Stack
 
